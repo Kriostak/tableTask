@@ -5,4 +5,4 @@
 
 [gh-pages](https://www.npmjs.com/package/gh-pages) - for build and deploy to github pages.
 
-[concurrently](https://www.npmjs.com/package/concurrently) - for running two commands in one terminal window
+[concurrently](https://www.npmjs.com/package/concurrently) - for running two commands in one terminal window.
