@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tableTask/static/css/main.efd49803.css",
+    "main.js": "/tableTask/static/js/main.cbedf05b.js",
+    "index.html": "/tableTask/index.html",
+    "main.efd49803.css.map": "/tableTask/static/css/main.efd49803.css.map",
+    "main.cbedf05b.js.map": "/tableTask/static/js/main.cbedf05b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efd49803.css",
+    "static/js/main.cbedf05b.js"
+  ]
+}
