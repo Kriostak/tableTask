@@ -1,6 +1,7 @@
 {
   "name": "table-task",
   "version": "0.1.0",
+  "homepage": "https://Kriostak.github.io/tableTask",
   "private": true,
   "dependencies": {
     "axios": "^1.4.0",
