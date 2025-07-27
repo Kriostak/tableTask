@@ -4,3 +4,5 @@
 [axios](https://www.npmjs.com/package/axios) - to prevent aditional settings descriptions in request.
 
 [gh-pages](https://www.npmjs.com/package/gh-pages) - for build and deploy to github pages.
+
+[concurrently](https://www.npmjs.com/package/concurrently) - for running two commands in one terminal window
